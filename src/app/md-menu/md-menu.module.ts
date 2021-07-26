@@ -16,6 +16,7 @@ import { OtherRouteComponent } from './other-route.component';
       component: MdMenuComponent,
       path: '',
       children: [{
+        
         component: DocsComponent,
         path: '',
       }, {
