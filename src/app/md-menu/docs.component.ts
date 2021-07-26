@@ -5,5 +5,7 @@ import { Component } from '@angular/core';
   selector: 'docs',
   templateUrl: './docs.component.html',
 })
+
+
 export class DocsComponent {
 }
